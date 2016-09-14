@@ -18,8 +18,8 @@ The following resources are created by this template:
 - 1 Load balancer with NATing rules.
 
 
-<img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/iis-2vm-sql-1vm/images/resources.png" />
+<img src="https://github.com/cpharishnec/iis-2vm-sql-1vm/blob/master/images/resources.png" />
 
 
 ## Architecture Diagram
-<img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/iis-2vm-sql-1vm/images/architecture.png" />
+<img src="https://github.com/cpharishnec/iis-2vm-sql-1vm/blob/master/images/architecture.png" />
